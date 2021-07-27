@@ -1,7 +1,7 @@
 # Bikeshare data analysis with python
 
 ## Project Overview
-Using panda library, this project analyse bikeshare data fir different cities
+Using panda library, the project analyse bikeshare data fir different cities
 
 ## Running the program:
 
